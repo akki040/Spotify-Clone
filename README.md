@@ -43,9 +43,9 @@ You must create two folders manually in the project root:
 
 1.jpg, 2.jpg, 3.jpg, ...
 
-⚠️ Naming Rule (Very Important)
+## Naming Rule (Very Important)
 
-✔️ Song name and cover image number must match
+### Song name and cover image number must match
 
 Example:
 → 1.mp3 → 1.jpg,
