@@ -1,9 +1,9 @@
-Spotify Clone
+## Spotify Clone
 
 A simple Spotify Clone web application built using HTML, CSS, and JavaScript.
 This project demonstrates the core functionality of a music player, including playing songs, pausing, switching tracks, and displaying song information with cover images.
 
-Features
+# Features
 
 → Play and pause music
 → Next and previous track controls
@@ -12,34 +12,13 @@ Features
 → Clean and responsive UI
 → Lightweight and beginner-friendly project
 
-Technologies Used
+#  Technologies Used
 
 → HTML5
 → CSS3
 → JavaScript (Vanilla JS)
 
-Project Structure
-Spotify-Clone/
-│
-├── index.html
-├── style.css
-├── script.js
-│
-├── songs/
-│   ├── 1.mp3
-│   ├── 2.mp3
-│   ├── 3.mp3
-│   └── ...
-│
-├── cover/
-│   ├── 1.jpg
-│   ├── 2.jpg
-│   ├── 3.jpg
-│   └── ...
-│
-└── README.md
-
-Songs & Cover Image Setup (Important)
+# Songs & Cover Image Setup (Important)
 
 You must create two folders manually in the project root:
 
@@ -76,7 +55,7 @@ Clone the repository:
 git clone https://github.com/akki040/Spotify-Clone.git
 
 
-Open the project folder:
+# Open the project folder:
 
 cd Spotify-Clone
 
@@ -84,6 +63,6 @@ cd Spotify-Clone
 Open index.html in your browser
 (No server required)
 
-📸 Preview
+Preview
 
 The UI is inspired by Spotify and focuses on simplicity and clarity while learning JavaScript-based media handling.
