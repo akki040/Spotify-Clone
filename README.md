@@ -6,10 +6,15 @@ This project demonstrates the core functionality of a music player, including pl
 ## Features
 
 → Play and pause music
+
 → Next and previous track controls
+
 → Song progress bar
+
 → Display song name and cover image
+
 → Clean and responsive UI
+
 → Lightweight and beginner-friendly project
 
 ##  Technologies Used
@@ -43,8 +48,8 @@ You must create two folders manually in the project root:
 ✔️ Song name and cover image number must match
 
 Example:
-→ 1.mp3 → 1.jpg
-→ 2.mp3 → 2.jpg
+→ 1.mp3 → 1.jpg,
+2.mp3 → 2.jpg
 
 If the numbering does not match, the cover image will not display correctly.
 
